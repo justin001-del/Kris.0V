@@ -258,7 +258,7 @@ st.dataframe(df)
 
 csv=df.to_csv(index=False).encode("utf-8")
 
-st.download_button(label="click here to download the result as CSV", data=csv, file_name="quize_result csv", mime="text/csv")
+st.download_button(label="click here to download the result as CSV", data=csv, file_name="quize_result.csv", mime="text/csv")
 
 
 
