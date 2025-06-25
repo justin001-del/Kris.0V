@@ -1,0 +1,30 @@
+h1{
+    background-color: #ADDFAD;
+    color:whitesmoke;
+    font-family: monospace;
+    text-align: center;
+    border: white;
+    margin: auto;
+    
+    border-radius: 10px;
+}
+
+
+.stApp {
+    background-color:  #3C5A40;
+
+
+}
+.stButton> button{ background-color: #ADDFAD;
+
+}
+.stButton>button:hover{
+    color: white;
+}
+
+.stDataFrame{
+    border-radius: 10px;
+    border-style: dotted;
+    background-color: #ADDFAD;
+    color: #ADDFAD;
+}
